@@ -1,2 +1,4 @@
 hello bruh
 this where i commit first time i wanna add this to git
+
+and this is the second line im adding whatever
